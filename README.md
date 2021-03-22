@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Matt Angell
-- 👀 I’m a Technical Recruiter @ Elastic 
+- 👀 I’m a Technical Recruiter @ Elastic (https://www.elastic.co/)
 - 📫 You can reach me on matt.angell@elastic.co if you're open to exploring a new role
